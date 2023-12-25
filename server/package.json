@@ -1,11 +1,10 @@
 {
-  "name": "task-app",
+  "name": "server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "server": "node ./server/server.js",
-    "client": "cd client  && npm start"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC"
